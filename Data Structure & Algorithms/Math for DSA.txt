@@ -1,0 +1,9 @@
+1. Summations
+2. Discrete Math 
+	- Sets
+	- Relations
+	- N-ary Relations
+	- Graphs
+	- Trees
+3. Counting and Probability
+4. Matrices
